@@ -9,6 +9,7 @@ print("Place your bets!")
 print("The minimum bet is $1")
 print("Zero is green!")
 print("Red and black pay 1 to 1")
+print("A correct number pays 35 to 1")
 
 while money > 0:
     print("\nMoney:", money)
