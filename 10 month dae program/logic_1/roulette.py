@@ -5,6 +5,7 @@ red_numbers = [1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36
 money = 100
 print("ROULETTE - you start with $100")
 print("Good luck!")
+print("Place your bets!")
 
 while money > 0:
     print("\nMoney:", money)
