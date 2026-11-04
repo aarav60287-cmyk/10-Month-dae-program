@@ -4,6 +4,7 @@ red_numbers = [1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36
 
 money = 100
 print("ROULETTE - you start with $100")
+print("Good luck!")
 
 while money > 0:
     print("\nMoney:", money)
@@ -27,7 +28,7 @@ while money > 0:
     print("The ball landed on", number, color)
 
     if choice == color:
-        money = money + bet 
+        money = money + bet
         print("You win!")
     elif choice == str(number):
         money = money + bet * 35
