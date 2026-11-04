@@ -6,6 +6,7 @@ money = 100
 print("ROULETTE - you start with $100")
 print("Good luck!")
 print("Place your bets!")
+print("The minimum bet is $1")
 
 while money > 0:
     print("\nMoney:", money)
