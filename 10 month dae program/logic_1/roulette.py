@@ -43,3 +43,4 @@ while money > 0:
         print("You lose.")
 
 print("Game over. You have $" + str(money))
+print("Thanks for playing roulette!")
